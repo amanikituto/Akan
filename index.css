@@ -1,0 +1,17 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+form>div label, form>div input {
+    margin-right: 5px;
+}
+
+#gender, button {
+    margin-top: 15px;
+}
